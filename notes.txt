@@ -1,0 +1,4 @@
+net -> specifing the path of the pre-trained model
+classes = the classes which ssd can detect
+img = reading an image
+h, w = getting the shape of the image
